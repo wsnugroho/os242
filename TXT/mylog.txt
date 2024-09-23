@@ -31,4 +31,12 @@ ZCZC W02 10 L15 Assignment #05
 ZCZC W02 10 L16 Assignment #06
 ZCZC W02 10 L17 Assignment #07
 ZCZC W02 60 L05 Quiz related including studying
-
+ZCZC W03 60 L64 Helping a friend (OS related problem)
+ZCZC W03 45 L11 Assignment #01
+ZCZC W03 15 L12 Assignment #02
+ZCZC W03 10 L13 Assignment #03
+ZCZC W03 10 L14 Assignment #04
+ZCZC W03 10 L15 Assignment #05
+ZCZC W03 10 L16 Assignment #06
+ZCZC W03 10 L17 Assignment #07
+ZCZC W03 60 L05 Quiz related including studying
