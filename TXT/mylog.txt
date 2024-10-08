@@ -47,3 +47,12 @@ ZCZC W04 20 L15 Assignment #05
 ZCZC W04 25 L40 TXT/ related in general.
 ZCZC W04 10 L25 C-language including Make.
 ZCZC W04 99 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 90 L64 Helping a friend (OS related problem)
+ZCZC W05 20 L11 Assignment #01
+ZCZC W05 20 L12 Assignment #02
+ZCZC W05 40 L13 Assignment #03
+ZCZC W05 30 L14 Assignment #04
+ZCZC W05 20 L15 Assignment #05
+ZCZC W05 15 L16 Assignment #06
+ZCZC W05 25 L40 TXT/ related in general.
+ZCZC W05 10 L25 C-language including Make.
