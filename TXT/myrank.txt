@@ -17,3 +17,6 @@ ZCZC W06 zufarra
 ZCZC W07 MaulRai
 ZCZC W07 ArzakaRaffan
 ZCZC W07 fazirta
+ZCZC W08 DaoistXuandu
+ZCZC W08 asShidqi
+ZCZC W08 FaiziIsmady
