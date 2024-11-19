@@ -12,3 +12,4 @@ permalink: LINKS/
 * [Linux fork() Introduction](https://www.youtube.com/watch?v=9seb8hddeK4) --- Introduction to linux fork()
 * [Linux Kernel Synchronization Basic](https://notes.eddyerburgh.me/operating-systems/linux/kernel-synchronization) --- Basic Linux Synchronization
 * [Kernotex LFS Playlist](https://youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&si=XMXWFfyKJmp7Y6o5) --- Youtube guide to build LFS 12.2
+* [LFS Guidebook](https://www.linuxfromscratch.org/~bdubbs/cross2-lfs-book/index.html) --- Official guide book for building LFS
